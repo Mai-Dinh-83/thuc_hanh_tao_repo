@@ -49,5 +49,5 @@ WebUI.delay(1)
 //
 WebUI.click(findTestObject('Object Repository/B3_Login/btn_Submit_Login_B3'))
 //WebUI.delay(1)
-WebUI.takeScreenshot('hinh bai 1 _ buoi 3.png')
+WebUI.takeScreenshot('hinh bai 1 _ buoi 3.png') 
 //WebUI.closeBrowser()
